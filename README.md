@@ -58,7 +58,7 @@ netflix-clone/
 
 Play with the project here:
 
-**https://asif213067.github.io/netflix-clone/**
+**https://asif213067.github.io/Netflix-Clone/**
 
 ---
 
